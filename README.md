@@ -3,28 +3,28 @@
 
 <div align="center">
     <!-- release -->
-    <a href="https://github.com/Moulberry/priceAnalyzer/releases/latest" target="_blank">
-        <img src="https://img.shields.io/github/v/release/Moulberry/priceAnalyzer-REPO?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
+    <a href="https://github.com/Moulberry/NotEnoughUpdates/releases/latest" target="_blank">
+        <img src="https://img.shields.io/github/v/release/Moulberry/NotEnoughUpdates-REPO?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
     </a>
     <!-- lines -->
-    <a href="https://github.com/priceAnalyzer/priceAnalyzer/graphs/code-frequency" target="_blank">
-        <img src="https://img.shields.io/tokei/lines/github/priceAnalyzer/priceAnalyzer?label=lines&color=informational&logo=GitHub" alt="lines">
+    <a href="https://github.com/NotEnoughUpdates/NotEnoughUpdates/graphs/code-frequency" target="_blank">
+        <img src="https://img.shields.io/tokei/lines/github/NotEnoughUpdates/NotEnoughUpdates?label=lines&color=informational&logo=GitHub" alt="lines">
     </a>
     <!-- license -->
     <a href="./COPYING.LESSER" target="_blank">
-        <img src="https://img.shields.io/github/license/priceAnalyzer/priceAnalyzer?color=informational" alt="license">
+        <img src="https://img.shields.io/github/license/NotEnoughUpdates/NotEnoughUpdates?color=informational" alt="license">
     </a>
     <!-- contributors -->
-    <a href="https://github.com/priceAnalyzer/priceAnalyzer/graphs/contributors" target="_blank">
-        <img src="https://img.shields.io/github/contributors/priceAnalyzer/priceAnalyzer?color=informational&logo=GitHub" alt="contributors">
+    <a href="https://github.com/NotEnoughUpdates/NotEnoughUpdates/graphs/contributors" target="_blank">
+        <img src="https://img.shields.io/github/contributors/NotEnoughUpdates/NotEnoughUpdates?color=informational&logo=GitHub" alt="contributors">
     </a>
     <!-- discord -->
     <a href="https://discord.gg/moulberry" target="_blank">
         <img src="https://img.shields.io/discord/516977525906341928?label=discord&color=informational&logo=Discord&logoColor=FFFFFF" alt="discord">
     </a>
     <!-- downloads -->
-    <a href="https://github.com/Moulberry/priceAnalyzer/releases" target="_blank">
-        <img src="https://img.shields.io/github/downloads/Moulberry/priceAnalyzer/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
+    <a href="https://github.com/Moulberry/NotEnoughUpdates/releases" target="_blank">
+        <img src="https://img.shields.io/github/downloads/Moulberry/NotEnoughUpdates/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
     </a>
 </div>
 
