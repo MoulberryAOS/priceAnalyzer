@@ -28,7 +28,7 @@
     </a>
 </div>
 
-priceAnalyzer (NEU) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
+priceAnalyzer (pAz) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
 
 ## Getting Started
 
@@ -44,12 +44,12 @@ priceAnalyzer (NEU) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyb
 #### Installing the priceAnalyzer mod
 
 1. Download the latest mod [release](https://github.com/priceAnalyzer/priceAnalyzer-REPO/releases). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
-2. Add the NEU mod:
+2. Add the pAz mod:
    - If you have java installed, double click the file, click `install`
    - If not, press the windows key + R; type `%appdata%`; click on the folder called `.minecraft`; click on the folder called `mods` and drag the mods file in here.
 3. Open the Minecraft launcher and run your forge installation you set up earlier.
 4. Then, hop onto Skyblock and run the command `/api new`. Your api key is automatically filled out and all features should work.
-5. Type `/neu`. If you see the priceAnalyzer menu, you have done this correctly!
+5. Type `/pAz`. If you see the priceAnalyzer menu, you have done this correctly!
 
 ## Features
 
@@ -58,12 +58,12 @@ priceAnalyzer (NEU) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyb
 - Dungeon loot profit checker.
 - Item overlays for Treecapitator, Builder's Wand, Block Zapper, and Bonemerang.
 - An in-game skyblock profile viewer accessed with `/pv [player]`.
-- Fully customizable enchant colors accessed with `/neuec [player]`.
-- Fairy soul waypoints accessed with `/neusouls`.
-- Customizable inventory command buttons accessed with `/neubuttons`.
+- Fully customizable enchant colors accessed with `/pAzec [player]`.
+- Fairy soul waypoints accessed with `/pAzsouls`.
+- Customizable inventory command buttons accessed with `/pAzbuttons`.
 - The ability to change the line color of fishing rods.
 - Onscreen overlays for: Farming, Dwarven Mines, Pets, and the Accessory bag.
-- A custom auction house accessed with `/neuah`.
+- A custom auction house accessed with `/pAzah`.
 - Solvers for: Enchanting and The Puzzler.
 - A custom Action House Search GUI.
 - A custom storage GUI.
@@ -74,11 +74,11 @@ priceAnalyzer (NEU) is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyb
 
 ## Support
 
-If you need assistance installing or using the mod, feel free to join the [discord](https://discord.gg/moulberry) and ask for help in [#neu-support](discord://discord.com/channels/516977525906341928/714332750156660756)
+If you need assistance installing or using the mod, feel free to join the [discord](https://discord.gg/moulberry) and ask for help in [#pAz-support](discord://discord.com/channels/516977525906341928/714332750156660756)
 
 ## Contributing
 
-If you would like to contribute to the project, look at our [contribution guide](CONTRIBUTING.md) for more information how to install NEU for development purposes.
+If you would like to contribute to the project, look at our [contribution guide](CONTRIBUTING.md) for more information how to install pAz for development purposes.
 
 ## Security
 
